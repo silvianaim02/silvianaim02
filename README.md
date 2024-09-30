@@ -1,6 +1,5 @@
 ### Hi! I'm Silvia 👋
 ---
-I'm student of Lampung University 2019 at Informatics Engineering Major. In the field of information technology, I am interested in web programming and design.
 
 <!--
 **silvianaim02/silvianaim02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
